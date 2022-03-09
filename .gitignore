@@ -13,3 +13,7 @@ buildNumber.properties
 
 #Exclude .devcontainer
 .devcontainer
+#varios
+.settings/*
+.project
+.classpath
